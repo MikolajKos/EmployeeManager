@@ -1,0 +1,13 @@
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

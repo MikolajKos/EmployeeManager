@@ -107,7 +107,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

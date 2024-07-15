@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "f4YuusPZG8c=",
+  "dgSpecHash": "vu+cUP8qN1w=",
   "success": true,
   "projectFilePath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nikok\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

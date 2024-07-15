@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LSpcADPojZs=",
+  "dgSpecHash": "HLdTgt7LfQ0=",
   "success": true,
   "projectFilePath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\DemoEmployeeManagementSystemSolution\\Client\\Client.csproj",
   "expectedPackageFiles": [
@@ -29,12 +29,12 @@
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.jsinterop\\8.0.6\\microsoft.jsinterop.8.0.6.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.6\\microsoft.jsinterop.webassembly.8.0.6.nupkg.sha512",
-    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
-    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.6\\microsoft.net.sdk.webassembly.pack.8.0.6.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.6.nupkg.sha512"
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }
